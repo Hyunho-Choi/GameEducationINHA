@@ -1,0 +1,249 @@
+{
+  "offset": {
+    "x": 60.0,
+    "y": 0.0,
+    "z": 45.0
+  },
+  "area": [
+    {
+      "x_start": 60,
+      "x_end": 108,
+      "z_start": 40,
+      "z_end": 65
+    },
+    {
+      "x_start": 60,
+      "x_end": 72.5,
+      "z_start": 65,
+      "z_end": 135.5
+    }
+  ],
+  "wall": [
+    {
+      "sourceFileName": "newWall.x",
+      "Name": "newWall (1)",
+      "position": {
+        "x": 13.75,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "colliderScale": {
+        "height": 4.0,
+        "width": 1.0,
+        "depth": 1.0
+      },
+      "scale": {
+        "x": 28.5,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "newWall.x",
+      "Name": "newWall (2)",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 35.5
+      },
+      "colliderScale": {
+        "height": 4.0,
+        "width": 1.0,
+        "depth": 1.0
+      },
+      "scale": {
+        "x": 72.0,
+        "y": 0.9999991655349731,
+        "z": 1.0
+      },
+      "rotation": {
+        "x": 0.00009061367018148303,
+        "y": 89.99994659423828,
+        "z": 0.0000906136046978645,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "newWall.x",
+      "Name": "newWall (3)",
+      "position": {
+        "x": 30.25,
+        "y": 0.0,
+        "z": 20.0
+      },
+      "colliderScale": {
+        "height": 4.0,
+        "width": 1.0,
+        "depth": 1.0
+      },
+      "scale": {
+        "x": 36.5,
+        "y": 0.9999973177909851,
+        "z": 1.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "newWall.x",
+      "Name": "newWall (4)",
+      "position": {
+        "x": 12.5,
+        "y": 0.0,
+        "z": 45.25
+      },
+      "colliderScale": {
+        "height": 4.0,
+        "width": 1.0,
+        "depth": 1.0
+      },
+      "scale": {
+        "x": 51.5,
+        "y": 0.9999991655349731,
+        "z": 1.0
+      },
+      "rotation": {
+        "x": 0.00009061367018148303,
+        "y": 89.99994659423828,
+        "z": 0.00009061354649020359,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "newWall.x",
+      "Name": "newWall (5)",
+      "position": {
+        "x": 12.5,
+        "y": -0.000004350250947027234,
+        "z": 83.0
+      },
+      "colliderScale": {
+        "height": 4.0,
+        "width": 1.0,
+        "depth": 1.0
+      },
+      "scale": {
+        "x": 16.0,
+        "y": 0.9999990463256836,
+        "z": 1.0
+      },
+      "rotation": {
+        "x": 0.00010427392408018932,
+        "y": 89.99994659423828,
+        "z": 0.00010427392408018932,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "newWall.x",
+      "Name": "newWall (6)",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 83.25
+      },
+      "colliderScale": {
+        "height": 3.999999761581421,
+        "width": 0.9999999403953552,
+        "depth": 0.9999999403953552
+      },
+      "scale": {
+        "x": 15.5,
+        "y": 0.9999992251396179,
+        "z": 1.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 89.99994659423828,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "newWall.x",
+      "Name": "newWall (7)",
+      "position": {
+        "x": 1.875,
+        "y": 0.0,
+        "z": 90.5
+      },
+      "colliderScale": {
+        "height": 3.999997854232788,
+        "width": 0.999999463558197,
+        "depth": 0.999999463558197
+      },
+      "scale": {
+        "x": 4.75,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "newWall.x",
+      "Name": "newWall (8)",
+      "position": {
+        "x": 48.0,
+        "y": 0.0,
+        "z": 7.25
+      },
+      "colliderScale": {
+        "height": 3.999999761581421,
+        "width": 0.9999999403953552,
+        "depth": 0.9999999403953552
+      },
+      "scale": {
+        "x": 25.5,
+        "y": 0.999998927116394,
+        "z": 1.0
+      },
+      "rotation": {
+        "x": 0.00010427392408018932,
+        "y": 89.99994659423828,
+        "z": 0.00010427392408018932,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "newWall.x",
+      "Name": "newWall (9)",
+      "position": {
+        "x": 10.625,
+        "y": 0.0,
+        "z": 90.5
+      },
+      "colliderScale": {
+        "height": 4.0,
+        "width": 1.0,
+        "depth": 1.0
+      },
+      "scale": {
+        "x": 4.75,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    }
+  ],
+  "grid": []
+}

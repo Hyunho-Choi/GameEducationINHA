@@ -1,0 +1,403 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="WinMain">
+      <UniqueIdentifier>{0e7d50b4-ed6d-43a2-82d4-5e97b1de93ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene">
+      <UniqueIdentifier>{60919a31-5903-47c6-929f-72e66152dae1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Singleton">
+      <UniqueIdentifier>{65c0f78f-cf66-48dc-84c2-951d577398d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ModelLoader">
+      <UniqueIdentifier>{f1c005cc-6355-4d80-b1f4-d559a6ea102e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BaseClass">
+      <UniqueIdentifier>{cd4da59c-6747-4c12-a602-84ad4021f9de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Map">
+      <UniqueIdentifier>{99a22a91-dea9-4c1f-bd6e-d15163831373}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI">
+      <UniqueIdentifier>{18d649cc-d236-4501-b8b4-754d34311ab2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DObject">
+      <UniqueIdentifier>{22f6ef6b-b866-4e90-b0e8-1dedad5d7989}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DObject\AnimatingObject">
+      <UniqueIdentifier>{7b5b3df2-36cf-4b5d-b804-6c22ad088fb7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DObject\AnimatingObject\Player">
+      <UniqueIdentifier>{e7058392-7d8b-485a-a38f-1fb7fb530736}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DObject\Colider">
+      <UniqueIdentifier>{3a1e285b-0e3a-4929-a2a7-b27659168f89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene\SceneFactory">
+      <UniqueIdentifier>{c7c199c2-5ddf-4adf-ba39-1384e322d18c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DObject\AnimatingObject\Chaser">
+      <UniqueIdentifier>{c6c01900-8879-4e3f-8dc6-90241bed7719}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DObject\AnimatingObject\CCTV">
+      <UniqueIdentifier>{d6213462-2c18-4c2d-9138-0a7122ccc8ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DObject\AnimatingObject\Player\PlayerState">
+      <UniqueIdentifier>{703e6a21-83e3-4dbe-b773-f0a2b70a7635}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DObject\AnimatingObject\Chaser\ChaserState">
+      <UniqueIdentifier>{43484519-952d-4239-8fd1-0013b5d09c0e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DeviceManager.cpp">
+      <Filter>Singleton</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeManager.cpp">
+      <Filter>Singleton</Filter>
+    </ClCompile>
+    <ClCompile Include="WinMain.cpp">
+      <Filter>WinMain</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>WinMain</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneCenter.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="EventManager.cpp">
+      <Filter>Singleton</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseObserver.cpp">
+      <Filter>BaseClass</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseObject.cpp">
+      <Filter>BaseClass</Filter>
+    </ClCompile>
+    <ClCompile Include="UIBase.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="UIImage.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureManager.cpp">
+      <Filter>Singleton</Filter>
+    </ClCompile>
+    <ClCompile Include="QuarterMap.cpp">
+      <Filter>Map</Filter>
+    </ClCompile>
+    <ClCompile Include="FontManager.cpp">
+      <Filter>Singleton</Filter>
+    </ClCompile>
+    <ClCompile Include="cObjLoader.cpp">
+      <Filter>Map</Filter>
+    </ClCompile>
+    <ClCompile Include="cMtlTex.cpp">
+      <Filter>Map</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundManager.cpp">
+      <Filter>Singleton</Filter>
+    </ClCompile>
+    <ClCompile Include="Base3DObject.cpp">
+      <Filter>3DObject</Filter>
+    </ClCompile>
+    <ClCompile Include="ModelLoader.cpp">
+      <Filter>ModelLoader</Filter>
+    </ClCompile>
+    <ClCompile Include="Static3DObject.cpp">
+      <Filter>3DObject</Filter>
+    </ClCompile>
+    <ClCompile Include="cAllocateHierarchy.cpp">
+      <Filter>3DObject\AnimatingObject</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyboardInputManager.cpp">
+      <Filter>Singleton</Filter>
+    </ClCompile>
+    <ClCompile Include="MouseInputManager.cpp">
+      <Filter>Singleton</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>3DObject\AnimatingObject\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="SkinnedMeshManager.cpp">
+      <Filter>Singleton</Filter>
+    </ClCompile>
+    <ClCompile Include="SkinnedMesh.cpp">
+      <Filter>3DObject\AnimatingObject</Filter>
+    </ClCompile>
+    <ClCompile Include="ColliderPolygon.cpp">
+      <Filter>3DObject\Colider</Filter>
+    </ClCompile>
+    <ClCompile Include="ColliderChecker.cpp">
+      <Filter>3DObject\Colider</Filter>
+    </ClCompile>
+    <ClCompile Include="ColliderCube.cpp">
+      <Filter>3DObject\Colider</Filter>
+    </ClCompile>
+    <ClCompile Include="ColliderSphere.cpp">
+      <Filter>3DObject\Colider</Filter>
+    </ClCompile>
+    <ClCompile Include="Room.cpp">
+      <Filter>Map</Filter>
+    </ClCompile>
+    <ClCompile Include="ShaderManager.cpp">
+      <Filter>Singleton</Filter>
+    </ClCompile>
+    <ClCompile Include="CameraManager.cpp">
+      <Filter>Singleton</Filter>
+    </ClCompile>
+    <ClCompile Include="JSON.cpp" />
+    <ClCompile Include="Portal.cpp">
+      <Filter>Map</Filter>
+    </ClCompile>
+    <ClCompile Include="Inventory.cpp">
+      <Filter>3DObject\AnimatingObject\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Interactable3DObject.cpp">
+      <Filter>3DObject</Filter>
+    </ClCompile>
+    <ClCompile Include="UICellGrid.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="RoomCenter.cpp">
+      <Filter>Map</Filter>
+    </ClCompile>
+    <ClCompile Include="Door.cpp" />
+    <ClCompile Include="FlashLight.cpp" />
+    <ClCompile Include="SceneFactory.cpp">
+      <Filter>Scene\SceneFactory</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObjectAssemblyLine.cpp">
+      <Filter>Scene\SceneFactory</Filter>
+    </ClCompile>
+    <ClCompile Include="UIAssemblyLine.cpp">
+      <Filter>Scene\SceneFactory</Filter>
+    </ClCompile>
+    <ClCompile Include="Chaser.cpp">
+      <Filter>3DObject\AnimatingObject\Chaser</Filter>
+    </ClCompile>
+    <ClCompile Include="CCTV.cpp">
+      <Filter>3DObject\AnimatingObject\CCTV</Filter>
+    </ClCompile>
+    <ClCompile Include="UIAnimation.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="CullingManager.cpp">
+      <Filter>Singleton</Filter>
+    </ClCompile>
+    <ClCompile Include="Node.cpp" />
+    <ClCompile Include="Astar.cpp" />
+    <ClCompile Include="WalkCharacterState.cpp">
+      <Filter>3DObject\AnimatingObject\Player\PlayerState</Filter>
+    </ClCompile>
+    <ClCompile Include="InteractCharacterState.cpp">
+      <Filter>3DObject\AnimatingObject\Player\PlayerState</Filter>
+    </ClCompile>
+    <ClCompile Include="IdleCharacterState.cpp">
+      <Filter>3DObject\AnimatingObject\Player\PlayerState</Filter>
+    </ClCompile>
+    <ClCompile Include="CharacterState.cpp">
+      <Filter>3DObject\AnimatingObject\Player\PlayerState</Filter>
+    </ClCompile>
+    <ClCompile Include="IdleChaserState.cpp">
+      <Filter>3DObject\AnimatingObject\Chaser\ChaserState</Filter>
+    </ClCompile>
+    <ClCompile Include="ChaserState.cpp">
+      <Filter>3DObject\AnimatingObject\Chaser\ChaserState</Filter>
+    </ClCompile>
+    <ClCompile Include="MovingChaserState.cpp">
+      <Filter>3DObject\AnimatingObject\Chaser\ChaserState</Filter>
+    </ClCompile>
+    <ClCompile Include="AttackingChaserState.cpp">
+      <Filter>3DObject\AnimatingObject\Chaser\ChaserState</Filter>
+    </ClCompile>
+    <ClCompile Include="UIConversation.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DeviceManager.h">
+      <Filter>Singleton</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeManager.h">
+      <Filter>Singleton</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>WinMain</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneCenter.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Singleton.h">
+      <Filter>Singleton</Filter>
+    </ClInclude>
+    <ClInclude Include="EventManager.h">
+      <Filter>Singleton</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseObserver.h">
+      <Filter>BaseClass</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseObject.h">
+      <Filter>BaseClass</Filter>
+    </ClInclude>
+    <ClInclude Include="UIBase.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="UIImage.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="UIEventListener.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureManager.h">
+      <Filter>Singleton</Filter>
+    </ClInclude>
+    <ClInclude Include="QuarterMap.h">
+      <Filter>Map</Filter>
+    </ClInclude>
+    <ClInclude Include="FontManager.h">
+      <Filter>Singleton</Filter>
+    </ClInclude>
+    <ClInclude Include="cObjLoader.h">
+      <Filter>Map</Filter>
+    </ClInclude>
+    <ClInclude Include="cMtlTex.h">
+      <Filter>Map</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundManager.h">
+      <Filter>Singleton</Filter>
+    </ClInclude>
+    <ClInclude Include="Base3DObject.h">
+      <Filter>3DObject</Filter>
+    </ClInclude>
+    <ClInclude Include="ModelLoader.h">
+      <Filter>ModelLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="Static3DObject.h">
+      <Filter>3DObject</Filter>
+    </ClInclude>
+    <ClInclude Include="cAllocateHierarchy.h">
+      <Filter>3DObject\AnimatingObject</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyboardInputManager.h">
+      <Filter>Singleton</Filter>
+    </ClInclude>
+    <ClInclude Include="MouseInputManager.h">
+      <Filter>Singleton</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>3DObject\AnimatingObject\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinnedMeshManager.h">
+      <Filter>Singleton</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinnedMesh.h">
+      <Filter>3DObject\AnimatingObject</Filter>
+    </ClInclude>
+    <ClInclude Include="ColliderPolygon.h">
+      <Filter>3DObject\Colider</Filter>
+    </ClInclude>
+    <ClInclude Include="ColliderChecker.h">
+      <Filter>3DObject\Colider</Filter>
+    </ClInclude>
+    <ClInclude Include="ColliderCube.h">
+      <Filter>3DObject\Colider</Filter>
+    </ClInclude>
+    <ClInclude Include="ColliderSphere.h">
+      <Filter>3DObject\Colider</Filter>
+    </ClInclude>
+    <ClInclude Include="Room.h">
+      <Filter>Map</Filter>
+    </ClInclude>
+    <ClInclude Include="ShaderManager.h">
+      <Filter>Singleton</Filter>
+    </ClInclude>
+    <ClInclude Include="CameraManager.h">
+      <Filter>Singleton</Filter>
+    </ClInclude>
+    <ClInclude Include="CollideHandle.h">
+      <Filter>3DObject\Colider</Filter>
+    </ClInclude>
+    <ClInclude Include="JSON.h" />
+    <ClInclude Include="Portal.h">
+      <Filter>Map</Filter>
+    </ClInclude>
+    <ClInclude Include="Inventory.h">
+      <Filter>3DObject\AnimatingObject\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Interactable3DObject.h">
+      <Filter>3DObject</Filter>
+    </ClInclude>
+    <ClInclude Include="UICellGrid.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="RoomCenter.h">
+      <Filter>Map</Filter>
+    </ClInclude>
+    <ClInclude Include="Door.h" />
+    <ClInclude Include="FlashLight.h" />
+    <ClInclude Include="SceneFactory.h">
+      <Filter>Scene\SceneFactory</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObjectAssemblyLine.h">
+      <Filter>Scene\SceneFactory</Filter>
+    </ClInclude>
+    <ClInclude Include="UIAssemblyLine.h">
+      <Filter>Scene\SceneFactory</Filter>
+    </ClInclude>
+    <ClInclude Include="Chaser.h">
+      <Filter>3DObject\AnimatingObject\Chaser</Filter>
+    </ClInclude>
+    <ClInclude Include="CCTV.h">
+      <Filter>3DObject\AnimatingObject\CCTV</Filter>
+    </ClInclude>
+    <ClInclude Include="UIAnimation.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="CullingManager.h">
+      <Filter>Singleton</Filter>
+    </ClInclude>
+    <ClInclude Include="Node.h" />
+    <ClInclude Include="Astar.h" />
+    <ClInclude Include="WalkCharacterState.h">
+      <Filter>3DObject\AnimatingObject\Player\PlayerState</Filter>
+    </ClInclude>
+    <ClInclude Include="InteractCharacterState.h">
+      <Filter>3DObject\AnimatingObject\Player\PlayerState</Filter>
+    </ClInclude>
+    <ClInclude Include="IdleCharacterState.h">
+      <Filter>3DObject\AnimatingObject\Player\PlayerState</Filter>
+    </ClInclude>
+    <ClInclude Include="CharacterState.h">
+      <Filter>3DObject\AnimatingObject\Player\PlayerState</Filter>
+    </ClInclude>
+    <ClInclude Include="IdleChaserState.h">
+      <Filter>3DObject\AnimatingObject\Chaser\ChaserState</Filter>
+    </ClInclude>
+    <ClInclude Include="ChaserState.h">
+      <Filter>3DObject\AnimatingObject\Chaser\ChaserState</Filter>
+    </ClInclude>
+    <ClInclude Include="MovingChaserState.h">
+      <Filter>3DObject\AnimatingObject\Chaser\ChaserState</Filter>
+    </ClInclude>
+    <ClInclude Include="AttackingChaserState.h">
+      <Filter>3DObject\AnimatingObject\Chaser\ChaserState</Filter>
+    </ClInclude>
+    <ClInclude Include="UIConversation.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

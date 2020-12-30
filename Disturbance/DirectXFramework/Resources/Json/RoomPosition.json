@@ -1,0 +1,140 @@
+{
+  "2A01": [
+    {
+      "x_start": 25,
+      "x_end": 60,
+      "z_start": 0,
+      "z_end": 20
+    },
+    {
+      "x_start": 45,
+      "x_end": 60,
+      "z_start": 20,
+      "z_end": 122
+    },
+    {
+      "x_start": 25,
+      "x_end": 60,
+      "z_start": 122,
+      "z_end": 137
+    }
+  ],
+  "2A02": [
+    {
+      "x_start": 0,
+      "x_end": 25,
+      "z_start": 120.5,
+      "z_end": 145.5
+    }
+  ],
+  "2A03": [
+    {
+      "x_start": 0,
+      "x_end": 45,
+      "z_start": 50.5,
+      "z_end": 120.5
+    }
+  ],
+  "2A04": [
+    {
+      "x_start": 0,
+      "x_end": 45,
+      "z_start": 20,
+      "z_end": 50.5
+    }
+  ],
+  "2A05": [
+    {
+      "x_start": 60,
+      "x_end": 87.5,
+      "z_start": 15,
+      "z_end": 45
+    }
+  ],
+  "2A06": [
+    {
+      "x_start": 60,
+      "x_end": 87.5,
+      "z_start": 0,
+      "z_end": 15
+    }
+  ],
+  "2A07": [
+    {
+      "x_start": 5,
+      "x_end": 20,
+      "z_start": 0,
+      "z_end": 20
+    }
+  ],
+  "2B01": [
+    {
+      "x_start": 72.5,
+      "x_end": 128,
+      "z_start": 65,
+      "z_end": 80
+    }
+  ],
+  "2B02": [
+    {
+      "x_start": 72.5,
+      "x_end": 93,
+      "z_start": 120.5,
+      "z_end": 135.5
+    }
+  ],
+  "2B03": [
+    {
+      "x_start": 93,
+      "x_end": 146,
+      "z_start": 108,
+      "z_end": 146
+    }
+  ],
+  "2B04": [
+    {
+      "x_start": 87.5,
+      "x_end": 145.5,
+      "z_start": 65,
+      "z_end": 108
+    }
+  ],
+  "2C01": [
+    {
+      "x_start": 60,
+      "x_end": 108,
+      "z_start": 40,
+      "z_end": 65
+    },
+    {
+      "x_start": 60,
+      "x_end": 72.5,
+      "z_start": 65,
+      "z_end": 135.5
+    }
+  ],
+  "2C02": [
+    {
+      "x_start": 87.5,
+      "x_end": 146,
+      "z_start": 9,
+      "z_end": 40
+    }
+  ],
+  "2C03": [
+    {
+      "x_start": 39.5,
+      "x_end": 93,
+      "z_start": 135.5,
+      "z_end": 146
+    }
+  ],
+  "2D01": [
+    {
+      "x_start": 108,
+      "x_end": 146,
+      "z_start": 40,
+      "z_end": 65
+    }
+  ]
+}

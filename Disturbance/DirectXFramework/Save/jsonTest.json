@@ -1,0 +1,70 @@
+{
+  "GameScene": 
+  {
+    "Wall": [
+      {
+        "Position": [ 9.0, 2.0, 0.5 ],
+        "Name": "PortalRoom_001",
+        "FilePath": "./Save/Wall.json",
+        "Collider_Tag": "Static_Collider",
+        "Room": "PortalRoom",
+        "OBJ_Tag": "Wall001"
+      },
+      {
+        "Position": [ 9.0, 2.0, 17.5 ],
+        "Name": "PortalRoom_002",
+        "FilePath": "./Save/Wall.json",
+        "Room": "PortalRoom",
+        "OBJ_Tag": "Wall001"
+      },
+      {
+        "Position": [ 0.5, 2.0, 0.5 ],
+        "Name": "PortalRoom_003",
+        "FilePath": "./Save/Wall.json",
+        "Room": "PortalRoom",
+        "OBJ_Tag": "Wall001"
+      },
+      {
+        "Position": [ 17.5, 2.0, 9.0 ],
+        "Name": "PortalRoom_004",
+        "FilePath": "./Save/Wall.json",
+        "Room": "PortalRoom",
+        "OBJ_Tag": "Wall001"
+      },
+      {
+        "Position": [ 0.5, 2.0, 9.0 ],
+        "Name": "PortalRoom_004",
+        "FilePath": "./Save/Wall.json",
+        "Collider":,
+        "Room": "PortalRoom",
+        "OBJ_Tag": "Wall001"
+      },
+      {
+        "Position": [ 17.5, 2.0, 3.0 ],
+        "Name": "PortalRoom_004",
+        "FilePath": "./Save/Wall.json",
+        "Collider":,
+        "Room": "PortalRoom",
+        "OBJ_Tag": "Wall001"
+      },
+      {
+        "Position": [ 17.5, 2.0, 15.0 ],
+        "Name": "PortalRoom_004",
+        "FilePath": "./Save/Wall.json",
+        "Collider":,
+        "Room": "PortalRoom",
+        "OBJ_Tag": "Wall001"
+      }
+    ]
+    "Item": 
+    [
+      {
+        "Position": [ 16, 0, 10 ],
+        "Name": "Key",
+        "FilePath": "Resources/XFile/DeathDropBox.X",
+        "Collider":,
+        "Room": "PortalRoom",
+      }
+    ] 
+  }
+}

@@ -1,0 +1,1571 @@
+{
+   "offset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 50.5
+  },
+  "newWall": [
+    {
+      "sourceFileName": "newWall.x",
+      "Name": "newWall (1)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 45.0,
+        "y": 0.0,
+        "z": 35.0
+      },
+      "scale": {
+        "x": 70.0,
+        "y": 0.9999988079071045,
+        "z": 1.0
+      },
+      "rotation": {
+        "x": 0.00010427392408018932,
+        "y": 89.99994659423828,
+        "z": 0.00010427199595142156,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "newWall.x",
+      "Name": "newWall (2)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 22.5,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 45.0,
+        "y": 0.9999966025352478,
+        "z": 1.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "newWall.x",
+      "Name": "newWall (3)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 35.0
+      },
+      "scale": {
+        "x": 70.0,
+        "y": 0.9999980330467224,
+        "z": 1.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 89.99994659423828,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "newWall.x",
+      "Name": "newWall (4)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 22.5,
+        "y": 0.0,
+        "z": 70.0
+      },
+      "scale": {
+        "x": 45.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    }
+  ],
+  "newDoor": [ ],
+  "2A0304_SM_Prop_Bin_01": [ ],
+  "2A0304_SM_Prop_Bin_Rubbish_01": [ ],
+  "2A0304_SM_Prop_Chair_05": [
+    {
+      "sourceFileName": "2A0304_SM_Prop_Chair_05.x",
+      "Name": "2A0304_SM_Prop_Chair_05 (1)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 15.704825401306153,
+        "y": 1.2999999523162842,
+        "z": 8.2191743850708
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": -179.99989318847657,
+        "y": -0.000005008955668017734,
+        "z": -179.99989318847657,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_Chair_05.x",
+      "Name": "2A0304_SM_Prop_Chair_05 (10)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 21.670860290527345,
+        "y": 1.2999999523162842,
+        "z": 50.0191650390625
+      },
+      "scale": {
+        "x": 0.030000001192092897,
+        "y": 0.029999999329447748,
+        "z": 0.030000001192092897
+      },
+      "rotation": {
+        "x": -179.99989318847657,
+        "y": -0.000005008955668017734,
+        "z": -179.99989318847657,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_Chair_05.x",
+      "Name": "2A0304_SM_Prop_Chair_05 (11)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 13.159189224243164,
+        "y": 1.2999999523162842,
+        "z": 50.0500373840332
+      },
+      "scale": {
+        "x": 0.030000001192092897,
+        "y": 0.029999999329447748,
+        "z": 0.030000001192092897
+      },
+      "rotation": {
+        "x": -179.99989318847657,
+        "y": -0.000005008955668017734,
+        "z": -179.99989318847657,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_Chair_05.x",
+      "Name": "2A0304_SM_Prop_Chair_05 (12)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 31.18726348876953,
+        "y": 1.3000036478042603,
+        "z": 50.08406066894531
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": -179.99989318847657,
+        "y": -0.000005008955668017734,
+        "z": -179.99989318847657,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_Chair_05.x",
+      "Name": "2A0304_SM_Prop_Chair_05 (13)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 8.379180908203125,
+        "y": 1.2999961376190186,
+        "z": 35.162513732910159
+      },
+      "scale": {
+        "x": 0.030000001192092897,
+        "y": 0.029999999329447748,
+        "z": 0.030000001192092897
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -60.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_Chair_05.x",
+      "Name": "2A0304_SM_Prop_Chair_05 (2)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 25.228694915771486,
+        "y": 1.2999999523162842,
+        "z": 8.067889213562012
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": -179.99989318847657,
+        "y": -0.000005008955668017734,
+        "z": -179.99989318847657,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_Chair_05.x",
+      "Name": "2A0304_SM_Prop_Chair_05 (3)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 15.655130386352539,
+        "y": 1.2999999523162842,
+        "z": 19.66619873046875
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_Chair_05.x",
+      "Name": "2A0304_SM_Prop_Chair_05 (4)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 24.707656860351564,
+        "y": 1.2999999523162842,
+        "z": 19.71279525756836
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_Chair_05.x",
+      "Name": "2A0304_SM_Prop_Chair_05 (5)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 34.12577438354492,
+        "y": 1.2999945878982545,
+        "z": 19.718034744262697
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_Chair_05.x",
+      "Name": "2A0304_SM_Prop_Chair_05 (6)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 34.09781265258789,
+        "y": 1.3000000715255738,
+        "z": 8.41738510131836
+      },
+      "scale": {
+        "x": 0.029999997466802598,
+        "y": 0.029999999329447748,
+        "z": 0.029999997466802598
+      },
+      "rotation": {
+        "x": -179.99989318847657,
+        "y": -0.000005008955668017734,
+        "z": -179.99989318847657,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_Chair_05.x",
+      "Name": "2A0304_SM_Prop_Chair_05 (7)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 31.09835433959961,
+        "y": 1.3000000715255738,
+        "z": 61.742042541503909
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_Chair_05.x",
+      "Name": "2A0304_SM_Prop_Chair_05 (8)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 21.777023315429689,
+        "y": 1.3000036478042603,
+        "z": 61.62513732910156
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_Chair_05.x",
+      "Name": "2A0304_SM_Prop_Chair_05 (9)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 12.422765731811524,
+        "y": 1.2999998331069947,
+        "z": 61.80603790283203
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    }
+  ],
+  "2A0304_SM_Prop_Cord_Wall_01": [ ],
+  "2A0304_SM_Prop_CubicalWalHalfl_01": [
+    {
+      "sourceFileName": "2A0304_SM_Prop_CubicalWalHalfl_01.x",
+      "Name": "2A0304_SM_Prop_CubicalWalHalfl_01 (1)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 19.31814193725586,
+        "y": 1.9999990463256837,
+        "z": 11.75118637084961
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999950900673868,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.00010427392408018932,
+        "y": 89.99994659423828,
+        "z": 0.00010427384404465556,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_CubicalWalHalfl_01.x",
+      "Name": "2A0304_SM_Prop_CubicalWalHalfl_01 (10)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 28.44359016418457,
+        "y": 2.0,
+        "z": 16.290130615234376
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999922960996629,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 89.99994659423828,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_CubicalWalHalfl_01.x",
+      "Name": "2A0304_SM_Prop_CubicalWalHalfl_01 (11)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 19.320682525634767,
+        "y": 2.0,
+        "z": 16.320152282714845
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999950900673868,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.00010427392408018932,
+        "y": 89.99994659423828,
+        "z": 0.00010427384404465556,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_CubicalWalHalfl_01.x",
+      "Name": "2A0304_SM_Prop_CubicalWalHalfl_01 (2)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 16.24993896484375,
+        "y": 2.0,
+        "z": 53.75251007080078
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.02999992109835148,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.00010426901280879974,
+        "y": 89.99994659423828,
+        "z": 0.00010427384404465556,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_CubicalWalHalfl_01.x",
+      "Name": "2A0304_SM_Prop_CubicalWalHalfl_01 (3)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 16.344282150268556,
+        "y": 2.0,
+        "z": 58.25754165649414
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.02999993786215782,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 89.99994659423828,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_CubicalWalHalfl_01.x",
+      "Name": "2A0304_SM_Prop_CubicalWalHalfl_01 (4)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 25.336650848388673,
+        "y": 2.0,
+        "z": 58.297080993652347
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.02999996393918991,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 89.99994659423828,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_CubicalWalHalfl_01.x",
+      "Name": "2A0304_SM_Prop_CubicalWalHalfl_01 (5)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 25.343782424926759,
+        "y": 2.0,
+        "z": 53.76032638549805
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.02999994345009327,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.00010427384404465556,
+        "y": 89.99994659423828,
+        "z": 0.00010427384404465556,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_CubicalWalHalfl_01.x",
+      "Name": "2A0304_SM_Prop_CubicalWalHalfl_01 (6)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 34.360347747802737,
+        "y": 2.0,
+        "z": 58.23750305175781
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999956488609315,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 89.99994659423828,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_CubicalWalHalfl_01.x",
+      "Name": "2A0304_SM_Prop_CubicalWalHalfl_01 (7)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 34.35487747192383,
+        "y": 2.0,
+        "z": 53.740501403808597
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999973252415658,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.00009061279706656933,
+        "y": 89.99994659423828,
+        "z": 0.00009061366290552542,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_CubicalWalHalfl_01.x",
+      "Name": "2A0304_SM_Prop_CubicalWalHalfl_01 (8)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 28.474018096923829,
+        "y": 2.0,
+        "z": 11.868592262268067
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999958351254464,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.00010427199595142156,
+        "y": 89.99994659423828,
+        "z": 0.00010427384404465556,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_CubicalWalHalfl_01.x",
+      "Name": "2A0304_SM_Prop_CubicalWalHalfl_01 (9)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 38.502708435058597,
+        "y": 2.0,
+        "z": 11.76736831665039
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.02999996952712536,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.00010427199595142156,
+        "y": 89.99994659423828,
+        "z": 0.00010427384404465556,
+        "w": 1.0
+      }
+    }
+  ],
+  "2A0304_SM_Prop_CubicalWall_01": [
+    {
+      "sourceFileName": "2A0304_SM_Prop_CubicalWall_01.x",
+      "Name": "2A0304_SM_Prop_CubicalWall_01 (1)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 16.2503604888916,
+        "y": 1.9999990463256837,
+        "z": 13.220190048217774
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_CubicalWall_01.x",
+      "Name": "2A0304_SM_Prop_CubicalWall_01 (10)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 35.338714599609378,
+        "y": 2.000002145767212,
+        "z": 13.247693061828614
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_CubicalWall_01.x",
+      "Name": "2A0304_SM_Prop_CubicalWall_01 (11)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 25.32308578491211,
+        "y": 2.0,
+        "z": 14.783052444458008
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_CubicalWall_01.x",
+      "Name": "2A0304_SM_Prop_CubicalWall_01 (12)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 35.24900817871094,
+        "y": 2.0,
+        "z": 14.756312370300293
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_CubicalWall_01.x",
+      "Name": "2A0304_SM_Prop_CubicalWall_01 (13)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 13.239557266235352,
+        "y": 1.9999980926513672,
+        "z": 34.99628448486328
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999954625964166,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.00010427392408018932,
+        "y": 89.99994659423828,
+        "z": 0.00010427384404465556,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_CubicalWall_01.x",
+      "Name": "2A0304_SM_Prop_CubicalWall_01 (2)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 13.266454696655274,
+        "y": 2.0,
+        "z": 55.23201370239258
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_CubicalWall_01.x",
+      "Name": "2A0304_SM_Prop_CubicalWall_01 (3)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 13.264480590820313,
+        "y": 2.0,
+        "z": 56.81624984741211
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_CubicalWall_01.x",
+      "Name": "2A0304_SM_Prop_CubicalWall_01 (4)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 22.366933822631837,
+        "y": 1.9999980926513672,
+        "z": 55.29478073120117
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_CubicalWall_01.x",
+      "Name": "2A0304_SM_Prop_CubicalWall_01 (5)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 22.39089012145996,
+        "y": 2.0,
+        "z": 56.82378005981445
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_CubicalWall_01.x",
+      "Name": "2A0304_SM_Prop_CubicalWall_01 (6)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 31.211711883544923,
+        "y": 2.0,
+        "z": 55.20130157470703
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_CubicalWall_01.x",
+      "Name": "2A0304_SM_Prop_CubicalWall_01 (7)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 31.294025421142579,
+        "y": 2.0,
+        "z": 56.84495544433594
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_CubicalWall_01.x",
+      "Name": "2A0304_SM_Prop_CubicalWall_01 (8)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 16.252243041992189,
+        "y": 2.0,
+        "z": 14.834182739257813
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999997466802598,
+        "z": 0.030000057071447374
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.9999991655349731,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_CubicalWall_01.x",
+      "Name": "2A0304_SM_Prop_CubicalWall_01 (9)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 25.396080017089845,
+        "y": 2.000001907348633,
+        "z": 13.389437675476075
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    }
+  ],
+  "2A0304_SM_Prop_FaxMachine_01": [
+    {
+      "sourceFileName": "2A0304_SM_Prop_FaxMachine_01.x",
+      "Name": "2A0304_SM_Prop_FaxMachine_01 (1)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 25.85333251953125,
+        "y": 2.770947217941284,
+        "z": 35.0831184387207
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    }
+  ],
+  "2A0304_SM_Prop_Paper_Pile_02": [
+    {
+      "sourceFileName": "2A0304_SM_Prop_Paper_Pile_02.x",
+      "Name": "2A0304_SM_Prop_Paper_Pile_02 (1)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 41.94614028930664,
+        "y": 0.22583675384521485,
+        "z": 36.47798156738281
+      },
+      "scale": {
+        "x": 0.03999999910593033,
+        "y": 0.03999999910593033,
+        "z": 0.03999999910593033
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_Paper_Pile_02.x",
+      "Name": "2A0304_SM_Prop_Paper_Pile_02 (2)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 42.21357727050781,
+        "y": 0.7186155915260315,
+        "z": 35.16535568237305
+      },
+      "scale": {
+        "x": 0.03999994322657585,
+        "y": 0.0799998864531517,
+        "z": 0.03999994322657585
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 29.999996185302736,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_Paper_Pile_02.x",
+      "Name": "2A0304_SM_Prop_Paper_Pile_02 (3)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 24.072782516479493,
+        "y": 2.426530361175537,
+        "z": 34.74275207519531
+      },
+      "scale": {
+        "x": 0.029999997466802598,
+        "y": 0.029999997466802598,
+        "z": 0.029999997466802598
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 10.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    }
+  ],
+  "2A0304_SM_Prop_Photocopier_01": [
+    {
+      "sourceFileName": "2A0304_SM_Prop_Photocopier_01.x",
+      "Name": "2A0304_SM_Prop_Photocopier_01 (1)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 42.20618438720703,
+        "y": 2.000001907348633,
+        "z": 41.52479553222656
+      },
+      "scale": {
+        "x": 0.05000000074505806,
+        "y": 0.04999976605176926,
+        "z": 0.05000000074505806
+      },
+      "rotation": {
+        "x": -179.99989318847657,
+        "y": 89.99994659423828,
+        "z": -179.99989318847657,
+        "w": 1.0
+      }
+    }
+  ],
+  "2A0304_SM_Prop_Photocopier_02": [
+    {
+      "sourceFileName": "2A0304_SM_Prop_Photocopier_02.x",
+      "Name": "2A0304_SM_Prop_Photocopier_02 (1)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 42.58016586303711,
+        "y": 1.4000002145767213,
+        "z": 31.882854461669923
+      },
+      "scale": {
+        "x": 0.05000000074505806,
+        "y": 0.04999980330467224,
+        "z": 0.05000000074505806
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 89.99994659423828,
+        "z": 0.0,
+        "w": 1.0
+      }
+    }
+  ],
+  "2A0304_SM_Prop_Plant_08": [
+    {
+      "sourceFileName": "2A0304_SM_Prop_Plant_08.x",
+      "Name": "2A0304_SM_Prop_Plant_08 (1)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 12.526809692382813,
+        "y": 2.680068254470825,
+        "z": 32.76443862915039
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    }
+  ],
+  "2A0304_SM_Prop_Plant_14": [
+    {
+      "sourceFileName": "2A0304_SM_Prop_Plant_14.x",
+      "Name": "2A0304_SM_Prop_Plant_14 (1)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 42.31313705444336,
+        "y": 2.3925859928131105,
+        "z": 27.02379035949707
+      },
+      "scale": {
+        "x": 0.019999999552965165,
+        "y": 0.019999999552965165,
+        "z": 0.019999999552965165
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_Plant_14.x",
+      "Name": "2A0304_SM_Prop_Plant_14 (2)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 8.560345649719239,
+        "y": 3.3752408027648927,
+        "z": 55.679866790771487
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    }
+  ],
+  "2A0304_SM_Prop_Plant_Flowers_02": [
+    {
+      "sourceFileName": "2A0304_SM_Prop_Plant_Flowers_02.x",
+      "Name": "2A0304_SM_Prop_Plant_Flowers_02 (1)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 13.593231201171875,
+        "y": 3.5119919776916506,
+        "z": 12.694984436035157
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    }
+  ],
+  "2A0304_SM_Prop_Printer_01": [ ],
+  "2A0304_SM_Prop_Table_01": [
+    {
+      "sourceFileName": "2A0304_SM_Prop_Table_01.x",
+      "Name": "2A0304_SM_Prop_Table_01 (1)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 11.088106155395508,
+        "y": 1.0,
+        "z": 35.0
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.00010427384404465556,
+        "y": 89.99994659423828,
+        "z": 0.00010427384404465556,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_Table_01.x",
+      "Name": "2A0304_SM_Prop_Table_01 (10)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 22.0,
+        "y": 1.0,
+        "z": 53.0
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_Table_01.x",
+      "Name": "2A0304_SM_Prop_Table_01 (11)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 22.0,
+        "y": 1.0,
+        "z": 59.0
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_Table_01.x",
+      "Name": "2A0304_SM_Prop_Table_01 (12)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 31.0,
+        "y": 1.0,
+        "z": 59.0
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_Table_01.x",
+      "Name": "2A0304_SM_Prop_Table_01 (13)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 31.0,
+        "y": 1.0,
+        "z": 53.0
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_Table_01.x",
+      "Name": "2A0304_SM_Prop_Table_01 (14)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 25.09180450439453,
+        "y": 1.0,
+        "z": 34.60630416870117
+      },
+      "scale": {
+        "x": 0.05999999865889549,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_Table_01.x",
+      "Name": "2A0304_SM_Prop_Table_01 (2)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 16.0,
+        "y": 0.9999961853027344,
+        "z": 11.0
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_Table_01.x",
+      "Name": "2A0304_SM_Prop_Table_01 (3)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 25.0,
+        "y": 1.0,
+        "z": 11.0
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_Table_01.x",
+      "Name": "2A0304_SM_Prop_Table_01 (4)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 35.0,
+        "y": 1.0,
+        "z": 11.0
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_Table_01.x",
+      "Name": "2A0304_SM_Prop_Table_01 (5)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 16.0,
+        "y": 1.0,
+        "z": 17.0
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_Table_01.x",
+      "Name": "2A0304_SM_Prop_Table_01 (6)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 25.0,
+        "y": 1.0,
+        "z": 17.0
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_Table_01.x",
+      "Name": "2A0304_SM_Prop_Table_01 (7)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 35.0,
+        "y": 1.0,
+        "z": 17.0
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_Table_01.x",
+      "Name": "2A0304_SM_Prop_Table_01 (8)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 13.0,
+        "y": 1.0,
+        "z": 59.0
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_Table_01.x",
+      "Name": "2A0304_SM_Prop_Table_01 (9)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 13.0,
+        "y": 1.0,
+        "z": 53.0
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    }
+  ],
+  "2A0304_SM_Prop_Computer_Setup_02": [
+    {
+      "sourceFileName": "2A0304_SM_Prop_Computer_Setup_02.x",
+      "Name": "2A0304_SM_Prop_Computer_Setup_02 (1)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 11.539831161499024,
+        "y": 3.0999999046325685,
+        "z": 35.0
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.00010427384404465556,
+        "y": 89.99994659423828,
+        "z": 0.00010427384404465556,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_Computer_Setup_02.x",
+      "Name": "2A0304_SM_Prop_Computer_Setup_02 (2)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 16.955293655395509,
+        "y": 3.0999999046325685,
+        "z": 11.660982131958008
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_Computer_Setup_02.x",
+      "Name": "2A0304_SM_Prop_Computer_Setup_02 (3)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 13.970864295959473,
+        "y": 3.0999999046325685,
+        "z": 53.216835021972659
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_Computer_Setup_02.x",
+      "Name": "2A0304_SM_Prop_Computer_Setup_02 (4)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 21.753618240356447,
+        "y": 3.0999999046325685,
+        "z": 53.85830307006836
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_Computer_Setup_02.x",
+      "Name": "2A0304_SM_Prop_Computer_Setup_02 (5)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 30.724708557128908,
+        "y": 3.0999999046325685,
+        "z": 53.27458572387695
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -0.0,
+        "z": 0.0,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_Computer_Setup_02.x",
+      "Name": "2A0304_SM_Prop_Computer_Setup_02 (6)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 31.24282455444336,
+        "y": 3.0999999046325685,
+        "z": 58.21168899536133
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": -179.99989318847657,
+        "y": -0.000005008955668017734,
+        "z": -179.99989318847657,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_Computer_Setup_02.x",
+      "Name": "2A0304_SM_Prop_Computer_Setup_02 (7)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 21.82882308959961,
+        "y": 3.099998712539673,
+        "z": 58.12950134277344
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": -179.99989318847657,
+        "y": -0.000005008955668017734,
+        "z": -179.99989318847657,
+        "w": 1.0
+      }
+    },
+    {
+      "sourceFileName": "2A0304_SM_Prop_Computer_Setup_02.x",
+      "Name": "2A0304_SM_Prop_Computer_Setup_02 (8)",
+      "ColliderName": "basicColliderCube",
+      "position": {
+        "x": 13.418925285339356,
+        "y": 3.0999999046325685,
+        "z": 58.140743255615237
+      },
+      "scale": {
+        "x": 0.029999999329447748,
+        "y": 0.029999999329447748,
+        "z": 0.029999999329447748
+      },
+      "rotation": {
+        "x": -179.99989318847657,
+        "y": -0.000005008955668017734,
+        "z": -179.99989318847657,
+        "w": 1.0
+      }
+    }
+  ]
+}

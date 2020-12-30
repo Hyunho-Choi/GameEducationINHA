@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Astar.cpp" />
+    <ClCompile Include="AttackingChaserState.cpp" />
+    <ClCompile Include="Base3DObject.cpp" />
+    <ClCompile Include="BaseObject.cpp" />
+    <ClCompile Include="BaseObserver.cpp" />
+    <ClCompile Include="cAllocateHierarchy.cpp" />
+    <ClCompile Include="Camera.cpp" />
+    <ClCompile Include="CameraManager.cpp" />
+    <ClCompile Include="CCTV.cpp" />
+    <ClCompile Include="CharacterState.cpp" />
+    <ClCompile Include="Chaser.cpp" />
+    <ClCompile Include="ChaserState.cpp" />
+    <ClCompile Include="cMtlTex.cpp" />
+    <ClCompile Include="cObjLoader.cpp" />
+    <ClCompile Include="ColliderCube.cpp" />
+    <ClCompile Include="ColliderPolygon.cpp" />
+    <ClCompile Include="ColliderChecker.cpp" />
+    <ClCompile Include="ColliderSphere.cpp" />
+    <ClCompile Include="CullingManager.cpp" />
+    <ClCompile Include="Door.cpp" />
+    <ClCompile Include="FlashLight.cpp" />
+    <ClCompile Include="GameObjectAssemblyLine.cpp" />
+    <ClCompile Include="IdleChaserState.cpp" />
+    <ClCompile Include="Interactable3DObject.cpp" />
+    <ClCompile Include="Inventory.cpp" />
+    <ClCompile Include="JSON.cpp" />
+    <ClCompile Include="MovingChaserState.cpp" />
+    <ClCompile Include="Node.cpp" />
+    <ClCompile Include="Portal.cpp" />
+    <ClCompile Include="Room.cpp" />
+    <ClCompile Include="RoomCenter.cpp" />
+    <ClCompile Include="ShaderManager.cpp" />
+    <ClCompile Include="SkinnedMesh.cpp" />
+    <ClCompile Include="SkinnedMeshManager.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="DeviceManager.cpp" />
+    <ClCompile Include="EventManager.cpp" />
+    <ClCompile Include="FontManager.cpp" />
+    <ClCompile Include="IdleCharacterState.cpp" />
+    <ClCompile Include="InteractCharacterState.cpp" />
+    <ClCompile Include="KeyboardInputManager.cpp" />
+    <ClCompile Include="ModelLoader.cpp" />
+    <ClCompile Include="MouseInputManager.cpp" />
+    <ClCompile Include="QuarterMap.cpp" />
+    <ClCompile Include="Scene.cpp" />
+    <ClCompile Include="SceneCenter.cpp" />
+    <ClCompile Include="SceneFactory.cpp" />
+    <ClCompile Include="SoundManager.cpp" />
+    <ClCompile Include="Static3DObject.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="TextureManager.cpp" />
+    <ClCompile Include="TimeManager.cpp" />
+    <ClCompile Include="UIAnimation.cpp" />
+    <ClCompile Include="UIAssemblyLine.cpp" />
+    <ClCompile Include="UIBase.cpp" />
+    <ClCompile Include="UICellGrid.cpp" />
+    <ClCompile Include="UIConversation.cpp" />
+    <ClCompile Include="UIImage.cpp" />
+    <ClCompile Include="WalkCharacterState.cpp" />
+    <ClCompile Include="WinMain.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Astar.h" />
+    <ClInclude Include="AttackingChaserState.h" />
+    <ClInclude Include="Base3DObject.h" />
+    <ClInclude Include="BaseObject.h" />
+    <ClInclude Include="BaseObserver.h" />
+    <ClInclude Include="cAllocateHierarchy.h" />
+    <ClInclude Include="Camera.h" />
+    <ClInclude Include="CameraManager.h" />
+    <ClInclude Include="CCTV.h" />
+    <ClInclude Include="CharacterState.h" />
+    <ClInclude Include="Chaser.h" />
+    <ClInclude Include="ChaserState.h" />
+    <ClInclude Include="cMtlTex.h" />
+    <ClInclude Include="cObjLoader.h" />
+    <ClInclude Include="CollideHandle.h" />
+    <ClInclude Include="ColliderCube.h" />
+    <ClInclude Include="ColliderPolygon.h" />
+    <ClInclude Include="ColliderChecker.h" />
+    <ClInclude Include="ColliderSphere.h" />
+    <ClInclude Include="CullingManager.h" />
+    <ClInclude Include="Door.h" />
+    <ClInclude Include="FlashLight.h" />
+    <ClInclude Include="GameObjectAssemblyLine.h" />
+    <ClInclude Include="IdleChaserState.h" />
+    <ClInclude Include="Interactable3DObject.h" />
+    <ClInclude Include="Inventory.h" />
+    <ClInclude Include="JSON.h" />
+    <ClInclude Include="MovingChaserState.h" />
+    <ClInclude Include="Node.h" />
+    <ClInclude Include="Portal.h" />
+    <ClInclude Include="Room.h" />
+    <ClInclude Include="RoomCenter.h" />
+    <ClInclude Include="ShaderManager.h" />
+    <ClInclude Include="SkinnedMesh.h" />
+    <ClInclude Include="SkinnedMeshManager.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="DeviceManager.h" />
+    <ClInclude Include="EventManager.h" />
+    <ClInclude Include="FontManager.h" />
+    <ClInclude Include="IdleCharacterState.h" />
+    <ClInclude Include="InteractCharacterState.h" />
+    <ClInclude Include="KeyboardInputManager.h" />
+    <ClInclude Include="ModelLoader.h" />
+    <ClInclude Include="MouseInputManager.h" />
+    <ClInclude Include="QuarterMap.h" />
+    <ClInclude Include="Scene.h" />
+    <ClInclude Include="SceneCenter.h" />
+    <ClInclude Include="SceneFactory.h" />
+    <ClInclude Include="Singleton.h" />
+    <ClInclude Include="SoundManager.h" />
+    <ClInclude Include="Static3DObject.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="TextureManager.h" />
+    <ClInclude Include="TimeManager.h" />
+    <ClInclude Include="UIAnimation.h" />
+    <ClInclude Include="UIAssemblyLine.h" />
+    <ClInclude Include="UIBase.h" />
+    <ClInclude Include="UICellGrid.h" />
+    <ClInclude Include="UIConversation.h" />
+    <ClInclude Include="UIEventListener.h" />
+    <ClInclude Include="UIImage.h" />
+    <ClInclude Include="WalkCharacterState.h" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>16.0</VCProjectVersion>
+    <ProjectGuid>{CED0C905-C3FB-43D3-8148-D661C9B7C7E1}</ProjectGuid>
+    <RootNamespace>DirectXFramework</RootNamespace>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <IncludePath>JSON\include;$(VC_IncludePath);$(WindowsSDK_IncludePath);DirectX9SDK\Include;</IncludePath>
+    <LibraryPath>JSON\Lib;$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86);$(NETFXKitsDir)Lib\um\x86;DirectX9SDK\Lib\x86;FBX_SDK\lib\vs2015\x86\debug</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+    <IncludePath>$(VC_IncludePath);$(WindowsSDK_IncludePath);$DirectX9SDK\Include\</IncludePath>
+    <LibraryPath>$(VC_LibraryPath_x64);$(WindowsSDK_LibraryPath_x64);$(NETFXKitsDir)Lib\um\x64;$DirectX9SDK\Lib\x64;FBX_SDK\lib\vs2015\x64\debug</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <IncludePath>JSON\include;$(VC_IncludePath);$(WindowsSDK_IncludePath);DirectX9SDK\Include;FBX_SDK\include</IncludePath>
+    <LibraryPath>JSON\Lib;$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86);$(NETFXKitsDir)Lib\um\x86;DirectX9SDK\Lib\x86;FBX_SDK\lib\vs2015\x86\release</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+    <IncludePath>$(VC_IncludePath);$(WindowsSDK_IncludePath);$DirectX9SDK\Include\</IncludePath>
+    <LibraryPath>$(VC_LibraryPath_x64);$(WindowsSDK_LibraryPath_x64);$(NETFXKitsDir)Lib\um\x64;$DirectX9SDK\Lib\x64;FBX_SDK\lib\vs2015\x64\release</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <AdditionalIncludeDirectories>FBX_SDK\include</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>
+      </AdditionalLibraryDirectories>
+      <AdditionalDependencies>%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <AdditionalIncludeDirectories>FBX_SDK\include</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>
+      </AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <AdditionalIncludeDirectories>FBX_SDK\include</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <AdditionalIncludeDirectories>FBX_SDK\include</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

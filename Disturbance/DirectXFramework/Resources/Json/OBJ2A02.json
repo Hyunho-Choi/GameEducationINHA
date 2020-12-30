@@ -1,0 +1,278 @@
+{
+  "offset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 120.5
+  },
+    "newWall": [],
+    "newDoor": [],
+    "2A0304_SM_Prop_Bin_01": [],
+    "2A0304_SM_Prop_Bin_Rubbish_01": [],
+    "2A0304_SM_Prop_Chair_05": [],
+    "2A0304_SM_Prop_Cord_Wall_01": [],
+    "2A0304_SM_Prop_CubicalWalHalfl_01": [],
+    "2A0304_SM_Prop_CubicalWall_01": [],
+    "2A0304_SM_Prop_FaxMachine_01": [],
+    "2A0304_SM_Prop_Paper_Pile_02": [],
+    "2A0304_SM_Prop_Photocopier_01": [],
+    "2A0304_SM_Prop_Photocopier_02": [],
+    "2A0304_SM_Prop_Plant_08": [],
+    "2A0304_SM_Prop_Plant_14": [],
+    "2A0304_SM_Prop_Plant_Flowers_02": [],
+    "2A0304_SM_Prop_Printer_01": [],
+    "2A0304_SM_Prop_Table_01": [],
+    "2A0304_SM_Prop_Computer_Setup_02": [],
+    "2A02_SM_Prop_Aircon_01": [],
+    "2A02_SM_Prop_ArcadeMachine_01": [
+        {
+            "sourceFileName": "2A02_SM_Prop_ArcadeMachine_01.x",
+            "Name": "2A02_SM_Prop_ArcadeMachine_01 (1)",
+            "ColliderName": "basicColliderCube",
+            "position": {
+                "x": 18.144855499267579,
+                "y": 1.8000311851501465,
+                "z": 23.833274841308595
+            },
+            "scale": {
+                "x": 0.05000000074505806,
+                "y": 0.05000000074505806,
+                "z": 0.05000000074505806
+            },
+            "rotation": {
+                "x": 0.00010427199595142156,
+                "y": -0.0,
+                "z": 0.00010427367669763044,
+                "w": 1.0
+            }
+        }
+    ],
+    "2A02_SM_Prop_Bin_02": [],
+    "2A02_SM_Prop_Chair_09": [],
+    "2A02_SM_Prop_CoffeeMachine_01": [
+        {
+            "sourceFileName": "2A02_SM_Prop_CoffeeMachine_01.x",
+            "Name": "2A02_SM_Prop_CoffeeMachine_01 (1)",
+            "ColliderName": "basicColliderCube",
+            "position": {
+                "x": 23.058582305908204,
+                "y": 1.9520691633224488,
+                "z": 11.206588745117188
+            },
+            "scale": {
+                "x": 0.029999999329447748,
+                "y": 0.029999852180480958,
+                "z": 0.029999999329447748
+            },
+            "rotation": {
+                "x": -179.99989318847657,
+                "y": 89.99994659423828,
+                "z": -179.99989318847657,
+                "w": 1.0
+            }
+        }
+    ],
+    "2A02_SM_Prop_Cup_Styrofoam_01": [],
+    "2A02_SM_Prop_Fire_Extinguisher_01": [],
+    "2A02_SM_Prop_FruitBowl_01": [
+        {
+            "sourceFileName": "2A02_SM_Prop_FruitBowl_01.x",
+            "Name": "2A02_SM_Prop_FruitBowl_01 (1)",
+            "ColliderName": "basicColliderCube",
+            "position": {
+                "x": 15.339003562927246,
+                "y": 1.9114506244659424,
+                "z": 5.578451156616211
+            },
+            "scale": {
+                "x": 0.09000000357627869,
+                "y": 0.09000000357627869,
+                "z": 0.09000000357627869
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0,
+                "w": 1.0
+            }
+        }
+    ],
+    "2A02_SM_Prop_Kitchen_Cabinet_01": [
+        {
+            "sourceFileName": "2A02_SM_Prop_Kitchen_Cabinet_01.x",
+            "Name": "2A02_SM_Prop_Kitchen_Cabinet_01 (1)",
+            "ColliderName": "basicColliderCube",
+            "position": {
+                "x": 9.121382713317871,
+                "y": 1.0,
+                "z": 23.651052474975587
+            },
+            "scale": {
+                "x": 0.05000000074505806,
+                "y": 0.05000000074505806,
+                "z": 0.05000000074505806
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0,
+                "w": 1.0
+            }
+        }
+    ],
+    "2A02_SM_Prop_Kitchen_Counter_01": [
+        {
+            "sourceFileName": "2A02_SM_Prop_Kitchen_Counter_01.x",
+            "Name": "2A02_SM_Prop_Kitchen_Counter_01 (1)",
+            "ColliderName": "basicColliderCube",
+            "position": {
+                "x": 23.22233009338379,
+                "y": 0.6897259950637817,
+                "z": 11.258726119995118
+            },
+            "scale": {
+                "x": 0.03999999910593033,
+                "y": 0.03999999910593033,
+                "z": 0.03999999910593033
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0,
+                "w": 1.0
+            }
+        }
+    ],
+    "2A02_SM_Prop_Kitchen_CounterSink_01": [
+        {
+            "sourceFileName": "2A02_SM_Prop_Kitchen_CounterSink_01.x",
+            "Name": "2A02_SM_Prop_Kitchen_CounterSink_01 (1)",
+            "ColliderName": "basicColliderCube",
+            "position": {
+                "x": 23.383378982543947,
+                "y": 1.399999976158142,
+                "z": 12.946697235107422
+            },
+            "scale": {
+                "x": 0.019999999552965165,
+                "y": 0.019999999552965165,
+                "z": 0.019999999552965165
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0,
+                "w": 1.0
+            }
+        }
+    ],
+    "2A02_SM_Prop_Plant_04": [
+        {
+            "sourceFileName": "2A02_SM_Prop_Plant_04.x",
+            "Name": "2A02_SM_Prop_Plant_04 (1)",
+            "ColliderName": "basicColliderCube",
+            "position": {
+                "x": 10.560345649719239,
+                "y": 1.0,
+                "z": 14.637014389038086
+            },
+            "scale": {
+                "x": 0.05000000074505806,
+                "y": 0.05000000074505806,
+                "z": 0.05000000074505806
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0,
+                "w": 1.0
+            }
+        },
+        {
+            "sourceFileName": "2A02_SM_Prop_Plant_04.x",
+            "Name": "2A02_SM_Prop_Plant_04 (2)",
+            "ColliderName": "basicColliderCube",
+            "position": {
+                "x": 23.77804183959961,
+                "y": 0.9999990463256836,
+                "z": 7.469932556152344
+            },
+            "scale": {
+                "x": 0.05000000074505806,
+                "y": 0.05000000074505806,
+                "z": 0.05000000074505806
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0,
+                "w": 1.0
+            }
+        }
+    ],
+    "2A02_SM_Prop_Table_Round_01": [
+        {
+            "sourceFileName": "2A02_SM_Prop_Table_Round_01.x",
+            "Name": "2A02_SM_Prop_Table_Round_01 (1)",
+            "ColliderName": "basicColliderCube",
+            "position": {
+                "x": 6.9273247718811039,
+                "y": 0.6000000238418579,
+                "z": 5.20036506652832
+            },
+            "scale": {
+                "x": 0.05999999865889549,
+                "y": 0.05999999865889549,
+                "z": 0.05999999865889549
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0,
+                "w": 1.0
+            }
+        },
+        {
+            "sourceFileName": "2A02_SM_Prop_Table_Round_01.x",
+            "Name": "2A02_SM_Prop_Table_Round_01 (2)",
+            "ColliderName": "basicColliderCube",
+            "position": {
+                "x": 15.645827293395996,
+                "y": 0.599998950958252,
+                "z": 5.555379867553711
+            },
+            "scale": {
+                "x": 0.05999999865889549,
+                "y": 0.05999999865889549,
+                "z": 0.05999999865889549
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0,
+                "w": 1.0
+            }
+        },
+        {
+            "sourceFileName": "2A02_SM_Prop_Table_Round_01.x",
+            "Name": "2A02_SM_Prop_Table_Round_01 (3)",
+            "ColliderName": "basicColliderCube",
+            "position": {
+                "x": 7.840149402618408,
+                "y": 0.6000000238418579,
+                "z": 17.824264526367189
+            },
+            "scale": {
+                "x": 0.05999999865889549,
+                "y": 0.05999999865889549,
+                "z": 0.05999999865889549
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0,
+                "w": 1.0
+            }
+        }
+    ],
+    "2A02_SM_Prop_WaterCooler_01": []
+}

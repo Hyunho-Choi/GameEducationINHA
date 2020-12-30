@@ -1,0 +1,22 @@
+{
+  "wall": [
+    {
+      "sourceFileName": "newWall.X",
+      "position": {
+        "x": 17,
+        "y": 0,
+        "z": 0.5
+      },
+      "colliderScale": {
+        "height": 8,
+        "width": 34,
+        "depth": 0.9
+      },
+      "scale": {
+        "x": 8.5,
+        "y": 1,
+        "z": 0.9
+      }
+    }
+  ]
+}
