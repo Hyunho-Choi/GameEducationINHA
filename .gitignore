@@ -2,7 +2,9 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudio,c++,windows
 ### image ###
 *.png
-
+*.x
+*.wav
+*.mp3
 
 ### C++ ###
 # Prerequisites
