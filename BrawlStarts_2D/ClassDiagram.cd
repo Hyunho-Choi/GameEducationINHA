@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bullet" Collapsed="true">
+    <Position X="7.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAhAAAABAhgAAEAAAAAAAIAAEAAAFAgAAAAAQIAA=</HashCode>
+      <FileName>Bullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClientMap" Collapsed="true">
+    <Position X="4.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAEBAAAAAAAAIAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>ClientMap.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAhAACAAAAgAAEAAAAAgAAAABAEAAggAAAAAAIAA=</HashCode>
+      <FileName>Enemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LocalClient" Collapsed="true">
+    <Position X="4.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgBAQAAAAAgAAAAAAAAAACQAgAAAAAAACAAAAAQA=</HashCode>
+      <FileName>LocalClient.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LocalServer" Collapsed="true">
+    <Position X="4.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAABAAAAABIAAAAIAAAAAAAAAAAAAACEAAAAAAAQAAA=</HashCode>
+      <FileName>LocalServer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServerMap" Collapsed="true">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAJAAAAAAAAAAAEEAAAAAEAAAAAAAAAAAACA=</HashCode>
+      <FileName>ServerMap.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SqUIButton" Collapsed="true">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAIAgAAACAABAAAAAAgIAIAIAAAAAAAAAE=</HashCode>
+      <FileName>SqUIButton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIButton" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAABSAAAAgAAEAAAAAAAAAAAAAAAAAAQACIBAAA=</HashCode>
+      <FileName>UIButton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIManager" Collapsed="true">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACYABIAIgAAAAAIAAoAAAAAAAAAAAAEgAAAAAA=</HashCode>
+      <FileName>UIManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UserController" Collapsed="true">
+    <Position X="2.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAYAAECAAAAAIAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UserController.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Malgun Gothic" Size="9" />
+</ClassDiagram>

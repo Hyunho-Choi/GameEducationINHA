@@ -422,3 +422,6 @@ MigrationBackup/
 DirectXFramework/DirectXFramework/Resources/XFile/Key.x
 *.jpg
 DirectXFramework/DirectXFramework/Resources/
+*.bmp
+*.aseprite
+*.ico
